@@ -1,3 +1,6 @@
+## Notebook Link
+https://colab.research.google.com/drive/18Fb2ktHbjNRG5ucRCzgL1-_uiEXCuKLs?usp=sharing
+
 ### 1. Propositional Logic Operations
 
 ```python
