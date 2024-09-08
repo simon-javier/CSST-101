@@ -1,3 +1,7 @@
+# **Introduction to Knowledge Representation**
+
+https://github.com/user-attachments/assets/49cdd280-f509-46d5-99cb-21cbaebaf8c6
+
 1.  **Research and Comprehend**
 
     - **Introduction to AI:**
