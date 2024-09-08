@@ -1,1 +1,3 @@
 # CSST-101
+
+Greetings and welcome to my collection of activities and projects! Within this compilation, you will find an overview of my key projects and activities related to the subject of Advanced Presentation and Reasoning. This collection highlights essential concepts, in-depth analyses, and practical applications that demonstrate critical reasoning, logical structuring, and effective communication techniques. Whether you're delving into argumentation, persuasive presentations, or analytical reasoning, this compilation aims to offer a thorough understanding of the principles and methods that are fundamental to advanced reasoning and presentation skills.
