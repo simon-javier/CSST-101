@@ -2,8 +2,6 @@
 
 ### 1. Propositional Logic Operations
 
-Save the following code as `logic_operations.py`:
-
 ```python
 # logic_operations.py
 
@@ -38,8 +36,6 @@ def implies_operation(p, q):
 
 ### 2. Evaluation Function
 
-Add the following to `logic_operations.py`:
-
 ```python
 def evaluate(statement, values):
     """
@@ -56,8 +52,6 @@ def evaluate(statement, values):
 ```
 
 ### 3. Predicate Logic
-
-Save the following functions in `predicate_logic.py`:
 
 ```python
 # predicate_logic.py
@@ -92,8 +86,6 @@ def exists(predicate, domain):
 ```
 
 ### 4. AI Agent
-
-Add the following code to `ai_agent.py`:
 
 ```python
 # ai_agent.py
