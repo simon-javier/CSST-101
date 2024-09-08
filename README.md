@@ -6,5 +6,5 @@ Greetings and welcome to my collection of activities and projects! Within this c
 ##
 <ul>
     <li><a target="_blank" href="https://github.com/simon-javier/CSST101-3B/tree/main/Machine-Learning-1">Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI.</a></li>
-    <li><a target="_blank" href="https://github.com/simon-javier/CSST101-3B/tree/main/Machine%20Problem%3A%20Implementing%20a%20Logic-Based%20Model%20in%20Python">Machine Problem: Implementing a Logic-Based Model in Python</a></li>
+    <li><a target="_blank" href="https://github.com/simon-javier/CSST101-3B/tree/main/Machine%20Problem%3A%20Implementing%20a%20Logic-Based%20Model%20in%20Python">Machine Problem No. 2: Implementing a Logic-Based Model in Python</a></li>
 </ul>
