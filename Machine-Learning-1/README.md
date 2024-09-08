@@ -1,6 +1,6 @@
 # **Introduction to Knowledge Representation**
 
-https://github.com/user-attachments/assets/9a3de0cb-3bfa-4d64-9a2f-81e6083dac02
+https://github.com/user-attachments/assets/77b40ba3-7e5b-47cf-a629-d65e9aab4ab9
 
 ## 1. **Research and Comprehend**
 
