@@ -5,7 +5,5 @@ Greetings and welcome to my collection of activities and projects! Within this c
 
 ##
 <ul>
-    <li><a target="_blank" href="https://github.com/simon-javier/CSST101-3B/tree/main/Machine-Learning-1">Lab Activity 1: Overview of Machine Learning Applications</a></li>
-
+    <li><a target="_blank" href="https://github.com/simon-javier/CSST101-3B/tree/main/Machine-Learning-1">Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI.</a></li>
 </ul>
-##
