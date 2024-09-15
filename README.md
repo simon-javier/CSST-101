@@ -7,4 +7,3 @@ Greetings and welcome to my collection of activities and projects! Within this c
 * ### [Machine Problem #1](https://github.com/simon-javier/CSST101-3B/tree/main/3B_JAVIER_MP1)
 * ### [Machine Problem #2](https://github.com/simon-javier/CSST101-3B/tree/main/3B_JAVIER_MP2)
 * ### [Machine Problem #3](https://github.com/simon-javier/CSST101-3B/blob/main/3B_JAVIER_MP3/3B_JAVIER_MP3.ipynb)
-* ### [Lab Work Exercise #1](https://github.com/simon-javier/CSST101-3B/blob/main/3B_JAVIER_EXER1/3B_JAVIER_EXER1.ipynb)
