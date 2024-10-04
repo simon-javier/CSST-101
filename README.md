@@ -10,3 +10,4 @@ Greetings and welcome to my collection of activities and projects! Within this c
 * ### [Laboratory Exercise #1](https://github.com/simon-javier/CSST101-3B/blob/main/3B-JAVIER-EXER1/3B-JAVIER-EXER1.ipynb)
 * ### [Laboratory Exercise #2](https://github.com/simon-javier/CSST101-3B/blob/main/3B-JAVIER-EXER2/3B-JAVIER-EXER2.ipynb)
 * ### [Laboratory Exercise #3](https://github.com/simon-javier/CSST101-3B/tree/main/3B-JAVIER-EXER3)
+* ### [Laboratory Exercise #4](https://github.com/simon-javier/CSST101-3B/tree/main/3B-JAVIER-EXER4)
